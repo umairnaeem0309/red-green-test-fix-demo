@@ -1,0 +1,9 @@
+{
+  "name": "red-green-test-fix-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A cart total with a real float-precision bug, a failing test, and the fix",
+  "scripts": {
+    "test": "node --test"
+  }
+}
